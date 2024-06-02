@@ -1,0 +1,10 @@
+
+k	java:S106"+Replace this use of System.out by a logger.(´ºÔÏÿÿÿÿÿJ$d33fc3e5-c109-42ee-8270-6e39308c0649
+w	java:S125*"<This block of commented-out lines of code should be removed.(œé¥J$c4247114-3dd1-48a3-a4ce-997cbd39951a
+k	java:S106>"+Replace this use of System.out by a logger.(«¤ŒŒşÿÿÿÿJ$adfa6cd5-83e1-46f6-9d9a-d67e497e57c2
+k	java:S106?"+Replace this use of System.out by a logger.(¥€ï¢şÿÿÿÿJ$bcf92df5-898b-48c8-afa6-7f9262dc8502
+f	java:S106@"+Replace this use of System.out by a logger.(ÆˆÛJ$658dad64-2c0a-458a-bb47-27cda819c424
+k	java:S106B"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿJ$9255926c-f498-4fbe-8a92-efc675ab025c
+‰	java:S100E"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ô‘ŠĞJ$407fdc14-5aaf-417d-9e4b-733b991509d2
+[
+java:S1659O"Declare "j" on a separate line.(ÖÒúJ$c399d095-fa51-429a-a69b-2cf03fabe7c8
